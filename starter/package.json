@@ -1,0 +1,10 @@
+{
+  "name": "dsh-plugin-starter",
+  "version": "0.1.0",
+  "description": "最小可跑的 DSH 插件骨架：一个工具，零依赖，免构建。",
+  "private": true,
+  "type": "module",
+  "main": "./lib/index.js",
+  "files": ["lib"],
+  "license": "MIT"
+}
